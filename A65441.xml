@@ -1,0 +1,429 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The present miseries and mischiefs of sin discoursed in a sermon before the late Lord mayor of London at Guild-Hall chappel / by Robert Wensley ...</title>
+            <author>Wensley, Robert, 1647-1689.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 63 KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A65441</idno>
+            <idno type="STC">Wing W1354</idno>
+            <idno type="STC">ESTC R11107</idno>
+            <idno type="EEBO-CITATION">11821969</idno>
+            <idno type="OCLC">ocm 11821969</idno>
+            <idno type="VID">49593</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A65441)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49593)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 555:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The present miseries and mischiefs of sin discoursed in a sermon before the late Lord mayor of London at Guild-Hall chappel / by Robert Wensley ...</title>
+                  <author>Wensley, Robert, 1647-1689.</author>
+               </titleStmt>
+               <extent>[6], 34 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Benj. Tooke ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Proverbs XI, 19 --  Sermons.</term>
+               <term>Sin --  Sermons.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-02</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-04</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2012-04</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:49593:1" rendition="simple:additions"/>
+            <p>THE PRESENT MISERIES AND Miſchiefs of Sin.</p>
+            <p>Diſcourſed in A SERMON Before the late <hi>Lord Mayor</hi> of <hi>London.</hi>
+            </p>
+            <p>At <hi>Guild-Hall</hi> Chappel.</p>
+            <p>By <hi>Robert Wenſley,</hi> Vicar of <hi>Cheſthunt</hi> in <hi>Hertfordſhire;</hi> and Chaplain to the Right Honourable <hi>JAMES,</hi> Earl of <hi>SALISB<g ref="char:V">Ʋ</g>RY;</hi> Knight of the moſt Noble Order of the Garter.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Benj. Tooke,</hi> at the <hi>Ship</hi> in St. <hi>Paul</hi>'s Church-Yard. M. DC. LXXXII.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:49593:2"/>
+            <head>To the Honoured Lady THE LADY <hi>REBECCA LYTTON;</hi> Relict of Sir <hi>ROWLAND LYTTON,</hi> Late of <hi>Knebworth</hi> in <hi>Hertfordſhire,</hi> K<hi rend="sup">nt.</hi> And to her moſt Hopeful Son, Mr. <hi>Playters Lucy.</hi>
+            </head>
+            <p>IN Obedience to your deſires (which by reaſon of my many Obligations to you both, ought by me to be eſteemed as Commands) having peruſed my Diſcourſe, and added to it what I thought expedient, and conſidering in what manner I ſhould (in An<g ref="char:EOLhyphen"/>ſwer to your Requeſt) preſent it to you; after ſome conſideration I have choſen to do it in the moſt publick manner that I could.</p>
+            <p>Not only for that common reaſon, (though I think that may be ſufficient to acquit me from Oſtentation) <hi>viz.</hi> That I might publickly acknowledge
+<pb facs="tcp:49593:3"/> how much I am obliged to you: But becauſe by my long Acquaintance with your Vertues, I am fully aſſured that this Sermon can ſcarcely meet with any Readers who have leſs need of it than either of you. Wherefore I concluded, that ſince you were plea<g ref="char:EOLhyphen"/>ſed to think it uſeful for your ſelves in private, it might be much more beneficial to others in publick.</p>
+            <p>For as for your Ladiſhip, I muſt beg pardon of your modeſty to ſay that your great Prudence and Piety, is a ſufficient guard againſt all Temptations to thoſe Sins which in this following Diſcourſe are proved Guilty of all the Miſeries and Miſchiefs of Mankind.</p>
+            <p>And as for that Worthy Gentle<g ref="char:EOLhyphen"/>man your Son (whom I cannot but be proud to call my Pupil) all that have had the happineſs to have been
+<pb facs="tcp:49593:3" rendition="simple:additions"/> acquainted with him from his Child<g ref="char:EOLhyphen"/>hood, (as I have) cannot but Love and Honour him for his Vertues, which ſeem innate in him, be<g ref="char:EOLhyphen"/>ing ſo conſtantly Viſible in all his Actions. For I ſhould be unjuſt to him, if I ſhould not ſay that I always knew him of that ſweetneſs and even<g ref="char:EOLhyphen"/>neſs of Temper, as though he had no Paſſion in him, but a deſire to oblige all Perſons with whom he converſed, nor any exceſs but an exceſs of Kind<g ref="char:EOLhyphen"/>neſs; and this joyned with ſuch a <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ick<g ref="char:EOLhyphen"/>neſs of Apprehenſion, and buſineſs <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f Action, that I may (I think without any Complement) ſay of him that he ſeems ſo made by Nature, as if God had on purpoſe framed him to demon<g ref="char:EOLhyphen"/>ſtrate the Beauty and Lovelineſs of Vertue to all thoſe of his Quality in this Degenerate Age.</p>
+            <pb facs="tcp:49593:4"/>
+            <p>For ſo naturally is he inclined to all Good, and averſe from anything that is Evil, that one would almoſt think that he alone was exempted from that general Corruption and De<g ref="char:EOLhyphen"/>pravity of Nature, which all other Men derive from <hi>Adam.</hi> So that ſince I ſo fully know that this Sermon could be of no great uſe to either of you, and ſince I ſhould be ungrateful ſhould I have denyed your Requeſt, I hope you will Pardon me, if I per<g ref="char:EOLhyphen"/>form it in ſuch a manner as it may be uſeful to ſuch, to whom it is moſt neceſſary; in confidence of which, (wiſhing to you both all the Happineſs of this World, and that which is to come) I take leave to Subſcribe my ſelf.</p>
+            <closer>
+               <signed>Your moſt obliged humble Servant. Rob. Wenſley.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:49593:4"/>
+            <epigraph>
+               <bibl>PROV. 11. <hi>v.</hi> 19. laſt part.</bibl>
+               <q>He that purſueth Evil, purſueth it to his own Death.</q>
+            </epigraph>
+            <p>IF ever Words were worthy of our utmoſt Attention, ſurely theſe may lay a juſt Claim to it; whether we reſpect the Author of them, or the matter contained in them.</p>
+            <p>As for the Author, he is no Melancholy, Mo<g ref="char:EOLhyphen"/>naſtick, or humorous Book-Worm, that takes things upon truſt, as he finds them in his rea<g ref="char:EOLhyphen"/>ding, or as he fancies them in himſelf; no in<g ref="char:EOLhyphen"/>tereſſed Prieſt that rails againſt Sin, becauſe he lives by ſuch Declamations; no malicious or envious Cynick that barks at the Pleaſures of others, becauſe he himſelf is not in a Capacity to enjoy them, (as the little Wits of our Age, are apt to Object) but the greateſt of Princes, and the Wiſeſt of Men: One, who had in Poſ<g ref="char:EOLhyphen"/>ſeſſion the greateſt Riches, and was indued by God with the greateſt Wiſdom, to know how to enjoy them; who was the beſt Experimental Philoſopher that ever was, or ever will be in the World: For (as he himſelf tells us) he gave himſelf to try all things, and denyed himſelf nothing to that end. <hi>For</hi> (ſaith he) <hi>ſo great</hi>
+               <note place="margin">
+                  <hi>Eccl.</hi> 
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note>
+               <pb n="2" facs="tcp:49593:5"/> 
+               <hi>was I, and ſo much did I encreaſe in Riches and Pleaſures above all that were before me in</hi> Jeruſa<g ref="char:EOLhyphen"/>lem; (and leſt we ſhould Object that he had by theſe Pleaſures loſt his Underſtanding, he tells us) <hi>and my Wiſdom remained with me:</hi> And how he employed his Wiſdom he alſo tells us, <hi>Whatſoever mine Eyes deſired, I held not from them, I withdrew not my Soul from any Pleaſure,</hi> &amp;c, and an Account of all things he there gives us, <hi>I looked upon all the Works which my hands had wrought, and behold all is Vanity and Vexa<g ref="char:EOLhyphen"/>tion of Spirit.</hi> This is all the ſad Account that his Experience gives him of all his Glory and Delights; but, a much ſadder Account he gives us of the Pleaſures of Evil in the Words of the Text. <hi>He that purſueth Evil, purſueth it to his own Death.</hi> And this leads me to conſider the matter of them which may much more recom<g ref="char:EOLhyphen"/>mend them to our moſt ſerious Conſideration.</p>
+            <p>For they contain in them the moſt forcible Argument to prevail with all Men to forſake their Sins.</p>
+            <p>For though ſome may be ſo ſenſeleſs as to put the Evil Day far from them; or ſo ſtupid as to think it may never come upon them, and to doubt of a future State; or though ſome may be ſo fooliſh to glory in their preſent ſhame; yet none (one would think) who hath any Reaſon left in him, (if he does duely conſider that the Proſecuting his Evil Courſes, will certainly be his utter and immediate Ruine) can be ſo mad to purſue his own Preſent Miſery, or to La<g ref="char:EOLhyphen"/>bour for his Immediate Death, and Deſtru<g ref="char:EOLhyphen"/>ction.</p>
+            <pb n="3" facs="tcp:49593:5" rendition="simple:additions"/>
+            <p>The words are ſo plain, that they need no further Explication, only we may take notice, that by Death in Scripture Language, is meant, not only the Diſſolution of our Bodies, but all kind of preſent Afflictions and Miſeries. So St. <hi>Paul</hi> 
+               <note n="*" place="margin">2 <hi>Corinth. c. 11. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. 23.</hi>
+               </note> ſaith, that he was <hi>in Deaths often,</hi> (that is) often under the greateſt Miſeries and Troubles, for it is certain he could Die but once.</p>
+            <p>And in this Sence I ſhall take the words of the Text, and endeavour to manifeſt to you, by an Induction of Particulars, this general Propoſiti<g ref="char:EOLhyphen"/>on contained in them, <hi>viz.</hi>
+            </p>
+            <q>That any one Sin being cont<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ined in, and pur<g ref="char:EOLhyphen"/>ſued, doth (by its direct Conſequence, and by a Chain of Natural Cauſes) lead us into ſuch Actions and Dangers, as tend to our preſent Mi<g ref="char:EOLhyphen"/>ſery and Deſtruction.</q>
+            <p>This, we have the experience of <hi>Solomon</hi> to confirm to us: And our own experience (if we will but give our ſelves time to conſider it, and to take a view of the moſt common Sins) will be ſufficient to convince us of their moſt dange<g ref="char:EOLhyphen"/>rous and fatal Conſequence.</p>
+            <p>And firſt if we take a View of the Sins againſt<note place="margin">1. The Sins againſt God.</note> God, we cannot but ſee that Danger and Mi<g ref="char:EOLhyphen"/>ſery are the natural effects of them.</p>
+            <p>For (beſides that, they provoke God to pour down the Vials of his Wrath upon us) by ſo much as we are Remiſs in our Duties to God, by ſo much we looſen the Reins to all Sin; by how much we fail in Religion, by ſo much we fail of any tye upon our Luſts, which being let looſe would ſoon hurry us into all Miſery and Ruin.</p>
+            <pb n="4" facs="tcp:49593:6"/>
+            <p>For, he that is not governed by Principles of Religion, can reaſonably be ſuppoſed to have no other Law to himſelf, but that of his preſent Sa<g ref="char:EOLhyphen"/>tisfaction and Intereſt; and that is nothing elſe, but his own Phanſie. For, if he thinks it his greateſt Intereſt or Pleaſure, to ſatisfie any Luſt whatſoever, tho' it be never ſo fooliſh or brutiſh; then that particular Luſt which is his Delight, is the only Rule by which he governs his whole Life; nor can any thing reſtrain him from any Act, (tho' it be never ſo fatal to himſelf, or to all Man<g ref="char:EOLhyphen"/>kind) ſo it be not contrary to his beloved Luſt. For, as for Shame or Diſgrace, where he is not ſenſible of any Fault, he can never be capable of any Shame.</p>
+            <p>And ſo far will he that hath no Religion be from thinking it a Fault to gratifie his Pleaſures, that he will eſteem all others Fools, that do not act like himſelf, in endeavouring by all means, to ſatisfie his reigning Appetites.</p>
+            <p>For, with him nothing is good and commen<g ref="char:EOLhyphen"/>dable, but what tends to the Satisfaction of his predominant Luſt: nor can any thing therefore be thought ill or blameable, that does any ways promote his preſent Deſigns, though they be ne<g ref="char:EOLhyphen"/>ver ſo deſtructive to himſelf, or all other men.</p>
+            <p>And as for fear of Laws, that indeed might oblige him, for his preſent Preſervation, to act his Villanies privately, but not at all to avoid any of them, tho' they are never ſo wicked and horrid: Nay, it would not oblige the moſt of men, if they had caſt off all Tyes of Conſcience, ſo far as this: For, if they are under any kind of Diſ<g ref="char:EOLhyphen"/>content
+<pb n="5" facs="tcp:49593:6"/> or Neceſſity, their Luſts having ruin'd them in this Life, and they expecting nothing of Reward or Puniſhment in that which is to come, they can look upon Death it ſelf (which is the utmoſt penalty of Humane Laws) as no ſuch fright<g ref="char:EOLhyphen"/>ful Monſter, but rather, as their beſt Friend; <hi>i. e.</hi> as a final End of all their Miſeries and Troubles. So certain it is, that thoſe that profeſs themſelves Atheiſts, are to be looked upon by all conſide<g ref="char:EOLhyphen"/>rate men, as the plague of the World, and uni<g ref="char:EOLhyphen"/>verſal Enemies to all Mankind. For, they that have little elſe to looſe but their Lives, and va<g ref="char:EOLhyphen"/>lue not them, (as the irreligious man is taught by his Principles of Atheiſm, not to do) are Maſters of the Lives and Fortunes of all other men; for nothing can reſtrain them from taking away ei<g ref="char:EOLhyphen"/>ther of them, when their Luſts or Neceſſities prompt them to it.</p>
+            <p>This I am heartily ſorry to think, that the Wickedneſs of this Age hath made too apparent to need any other proof; wherein we may have ſeen ſome grown ſhameleſs in their Crimes, (and Thanks be to God, that after Religion was ſo ſhamefully abuſed, and drawn in, to countenance the moſt horrid Crimes in the laſt Age, we have not more Atheiſts in this) yet a ſad Sight it is, how ſmall ſoever the number may be, to ſee any ſuch Factors for the Devil, and Hectors for Sin, that are ready to fight their Quarrels againſt all Oppoſers, that are grown ſo impudent in their impious Facts, that they are ready to deride and affront all others that are not as wicked as them<g ref="char:EOLhyphen"/>ſelves; and to account them men of low and
+<pb n="6" facs="tcp:49593:7"/> mean Underſtandings, whoſe Villanies do not extend as high as Heaven it ſelf. Such as pride themſelves in their infamous Debaucheries, and cry down other men, as perſons of a baſe Spirit, who dare not make Sport with Religion, and bid Defiance to the Sacred Name of God, by prophane Oaths and Blaſphemies.</p>
+            <p>Neither do they ſtop here, but proceed to all kind of Miſchiefs to themſelves, and Injuries to others: For, no ſooner have they laid aſide Re<g ref="char:EOLhyphen"/>ligion, but they are ready for all kind of Perju<g ref="char:EOLhyphen"/>ries and Forgeries; for Fire, Poyſon, or Poni<g ref="char:EOLhyphen"/>ard, or any thing elſe that may any ways con<g ref="char:EOLhyphen"/>tribute to the Satisfaction of their Luſts. Nei<g ref="char:EOLhyphen"/>ther Pitty to others, nor Care of themſelves, can reſtrain them from either Theft or Murder, or any other Wickedneſs, that may tend to the Gra<g ref="char:EOLhyphen"/>tification of their reigning Appetites.</p>
+            <p>How do they offer up their own Bodies a burnt Sacrifice to <hi>Venus,</hi> and deſtroy their Health, by their Oblations to <hi>Bacchus?</hi> Nay, rather than they will want a Supply for their Luſts, How do they forfeit their Lives to the Laws, and offer up all things that can be dear to them, to their own Humours? to obtain which, How do they give up their Souls and Bodies even to the Devil himſelf?</p>
+            <p>Theſe, by breaking the Bonds of Religion, and caſting away its Cords from them, do deſtroy all Society, and not only involve themſelves, but all Mankind, in Miſery and Ruin, by the di<g ref="char:EOLhyphen"/>rect Conſequence of their Atheiſtical Principles. For, if there be no God, then there can be no
+<pb n="7" facs="tcp:49593:7"/> ſuch thing as Right or Wrong, Juſt or Unjuſt; and, by conſequence, nothing but Confuſion. And this brings me to conſider the Danger and Miſchief of the next ſort of Sins. <hi>Viz.</hi>
+            </p>
+            <p>Secondly, The Sins againſt our Neighbour.<note place="margin">2. The Sins againſt our Neighbour.</note>
+            </p>
+            <p>Theſe are of theſe two ſorts, Injuſtice and Uncharitableneſs; which (if we conſider them) will manifeſtly appear of the moſt dangerous and fatal Conſequence to all Mankind. For, Juſtice and Charity are the main Pillars of the World; ſo that he which pulls down theſe, ruines all Society, and renders the World a mere Heap of Rubbiſh.</p>
+            <p>The love of the Company of their own kind, ſeems a Principle ingrafted in the very Nature of all living Creatures, it is ſo univerſally viſible amongſt them. He therefore that caſts off the Love of his Neighbour, is worſe than the Brute Beaſts, and more unnatural than any of them.</p>
+            <p>But where this Charity to all Mankind is root<g ref="char:EOLhyphen"/>ed in the Heart, it ſhews it ſelf in ſuch bleſſed Effects, as (if they were univerſal) would change men into Angels or Gods, continually doing all Good to one another; and this Earth into Hea<g ref="char:EOLhyphen"/>ven. For, <hi>Charity</hi> (<note n="*" place="margin">
+                  <hi>1 Cor.</hi> 13. from <hi>v.</hi> 4. to <hi>v. 8.</hi>
+               </note> as St. <hi>Paul</hi> deſcribes it) <hi>ſuffereth long and is kind, Charity envieth not, Charity vaunteth not it ſelf, is not puffed up, doth not behave it ſelf unſeemly, ſeeketh not her own, is not eaſily provoked, thinketh no Evil,</hi> &amp;c.</p>
+            <p>Now, if theſe were univerſally practis'd amongſt men, how happy ſhould we be? What a bleſſed and uninterrupted Peace and Kindneſs? What an immutable Happineſs would mutually bleſs us?
+<pb n="8" facs="tcp:49593:8"/> But on the contrary, Injuſtice and Uncharitable<g ref="char:EOLhyphen"/>neſs would turn the World into a Deſart, and men into Wolves and Tigers; and make them act one againſt another with more Cruelty and Fierceneſs, than the moſt Savage Beaſts.</p>
+            <p>Theſe, if they ſhould once be univerſal (which God forbid) would change humane Friendſhip into a State of War; in which, every man's hand would be lift up againſt every man.</p>
+            <p>Property would be an empty Name, and no other Right or Title would hold good, but that of the longeſt Sword: And, in a Word, nothing but Horror and Confuſion would overſpread the World: the Kingdoms of the Earth would be like the Kingdoms of Darkneſs, fill'd with no<g ref="char:EOLhyphen"/>thing but Rage and Howling; and men would be chang'd into Devils, continually tormenting one another, and being tormented one by another.</p>
+            <p>For, they that have caſt from them all the Tyes of Charity, which is the Bond of Perfecti<g ref="char:EOLhyphen"/>on, and all the Laws of Equity, the only Cords of a man, (that can bind thoſe furious Phili<g ref="char:EOLhyphen"/>ſtims their head-ſtrong Paſſions) are given up to be mutually tortured by thoſe implacable Furies of Impatience and Anger, Pride and Covetouſ<g ref="char:EOLhyphen"/>neſs, Envy and Malice, the natural Parents of all Miſery, and of all Miſchief, as well to them<g ref="char:EOLhyphen"/>ſelves, as to all others with whom they converſe.</p>
+            <p>And this now directly leads me to diſcourſe the miſerable Effects of the next ſort of Sins. <hi>Viz.</hi>
+            </p>
+            <p>Thirdly, The Sins againſt our Selves.<note place="margin">3. Sins againſt our ſelves.</note>
+            </p>
+            <p>Theſe may be reduced to theſe two ſorts.</p>
+            <p>Firſt, Thoſe of Intemperance, or Exceſs of Riot.</p>
+            <pb n="9" facs="tcp:49593:8"/>
+            <p>Secondly, Thoſe of Exceſs of Paſſion.</p>
+            <p>Both of them may moſt properly be called Sins againſt our Selves; for they are of moſt fa<g ref="char:EOLhyphen"/>tal conſequence, moſt commonly, to their own Authors.</p>
+            <p>Of the firſt ſort, <hi>viz.</hi> the Sins of Intemperance,<note place="margin">Sins of Intem<g ref="char:EOLhyphen"/>perance.</note> are theſe two, Drunkenneſs and Gluttony.</p>
+            <p>What Words are ſad enough to expreſs, or<note place="margin">1. Drunken<g ref="char:EOLhyphen"/>neſs.</note> what Tears are ſufficient to bewail the Miſeries that men bring upon themſelves by theſe Sins?</p>
+            <p>What Diſeaſes are there ſo fatal, what Crimes ſo black and horrid, or what Accidents ſo dan<g ref="char:EOLhyphen"/>gerous, to which Drunkenneſs doth not expoſe us?</p>
+            <p>He that is poſſeſs'd with this Vice, is in his caſe who was poſſeſs'd with the Devil, of whom we read in the * Goſpel. <hi>He is mad and tormented,</hi>
+               <note place="margin">Math. 17. 15.</note> 
+               <hi>and oftimes he falls into the Fire, and oftimes in<g ref="char:EOLhyphen"/>to the Water.</hi>
+            </p>
+            <p>Nay indeed he is in a much worſe Condition, for Strong Drink doth ſo much inflame him, that it burns up his Vitals with a ſcorching Fever; or ſo fires his Spirits, that they are exploded in the deadly Stroke of an Apoplexy: nay, too often it hath a quite contrary effect, and raiſeth ſuch a Flood of Filth and Water in his Body, that it buries him alive in a Lethargy, or elſe drowns him in a Dropſie.</p>
+            <p>But if by a conſtant Practice, or by the parti<g ref="char:EOLhyphen"/>cular Conſtitution of a man's Body, it be ſome<g ref="char:EOLhyphen"/>times prevented from making a man become his own Murderer; yet it too often raiſeth ſuch Heats and Quarrels, as make his choſen Compa<g ref="char:EOLhyphen"/>nions to become his Executioners; for oft times
+<pb n="10" facs="tcp:49593:9"/> if he doth not kill his beſt Friends with his own hands, he dies by theirs; and ſo Murders him<g ref="char:EOLhyphen"/>ſelf by the hands of his Friends, and kills them too by the hand of Juſtice.</p>
+            <p>To this purpoſe, the <note n="*" place="margin">Prov. 23. v. 29, 30, 31.</note> Wiſe Man diſcourſ<g ref="char:EOLhyphen"/>eth, (poſſibly from his own Experience) <hi>Who hath Woe? Who hath Sorrow? Who hath Con<g ref="char:EOLhyphen"/>tentions? Who hath Wounds without cauſe?</hi> &amp;c. <hi>They that tarry long at the Wine, they that go to ſeek mixt Wine:</hi> Therefore (ſaith he) <hi>look not thou upon the Wine when it hath its right color and ſparkleth in the Cup;</hi> and the reaſon he gives I wiſh all Men would conſtantly remember, <hi>viz. For at the laſt it biteth like a Serpent, and ſtingeth like an Adder.</hi> (i. e.) However we may eſcape for ſome time, yet at length it will cer<g ref="char:EOLhyphen"/>tainly deſtroy us.</p>
+            <p>But ſuppoſe that by God's Providence none of the too common, though Mortal, Diſeaſes or Fa<g ref="char:EOLhyphen"/>tal Quarrels be the effects of Drunkenneſs upon our ſelves; yet it may have ſome of theſe fatal Conſequences upon our Friends and Compani<g ref="char:EOLhyphen"/>ons, and ſo our very kindneſſes may become their Murderers, or elſe at leaſt it expoſeth a Man to the moſt ſhameful and odious Actions. Thus it expoſed <hi>Noah</hi> (though a Preacher of Righteouſneſs) to be the ſcorn and ſhame of his own Off-ſpring: And it made <hi>Lot</hi> (a Man ſo good that God ſent his Angels to deliver him from the Flames of <hi>Sodom</hi>) to commit Folly and Inceſt with his own Daughters: And no wonder it ſhould hurry us into Folly or Miſ<g ref="char:EOLhyphen"/>chief, when it deprives us of our Reaſon; and
+<pb n="11" facs="tcp:49593:9"/> and (for the preſent) leaves no more of Man viſible in us than there is in the Ridiculous Ape whilſt he plays his Monkey-tricks, or in the Filthy Swine, whilſt it wallows in the Mire; ſo fully evident is that Saying of <hi>Solomon. Wine is a</hi>
+               <note place="margin">Prov. 20. 1.</note> 
+               <hi>Mocker; Strong Drink is rageing, and whoſoever is deceived thereby is a Fool.</hi>
+            </p>
+            <p>And for that other exceſs of Riot, <hi>viz.</hi>
+            </p>
+            <p>Secondly, Gluttony.</p>
+            <p>It is no leſs dangerous than the former: Nay<note place="margin">2. Gluttony.</note> it is by ſo much the more Fatal, by how much it's deadly Operations are leſs perceived; for this Vice ſteals upon us inſenſibly and kills us (as it is ſaid of white Gunpowder) though with no noiſe, yet with more certain Execution, and at a far greater diſtance.</p>
+            <p>Drunkenneſs (indeed) blows up a Man on a ſuddain, and ſo apparently, that all that are near muſt needs ſee it: But Gluttony though it is ſlow, yet it is ſure in it's Execution.</p>
+            <p>It proceeds by inſenſible Degrees, and too often is not perceiv'd in it's Acts, till it appears in it's incurable effects.</p>
+            <p>By ſilent Motions it corrupts the Stomach, and fills it with Crudities; and by conſequence ſtuffs up the Body with indigeſted Food, and ill fermented Blood; and thus renders a Man (like a Living Hoſpital) full of nothing but Filth, and all manner of Diſeaſes.</p>
+            <p>For notwithſtanding (too commonly) we are not aware of it; yet I am confident, it is true, that <hi>Luxury</hi> hath ſhort'ned more Mens Days, and deſtroyed more of our Lives, than thoſe three grand Deſtroyers of Mankind, <hi>War,
+<pb n="12" facs="tcp:49593:10"/> Famine,</hi> and <hi>Peſtilence,</hi> put altogether. And if we ſhould compare theſe two Sins together, which I have laſt mentioned, it may (I think) be too truely ſaid of them which was ſang of <hi>Saul</hi> and <hi>David. Drunkenneſs hath ſlain it's Thouſands, and Gluttony it's Ten Thouſands.</hi> Neither are theſe the only dangerous Exceſſes. For the Exceſs of any Irregular Paſſion, renders a Man, no leſs miſerable than either of the for<g ref="char:EOLhyphen"/>mer. Nay ſo like they are, that even in the Sacred Scriptures they are ſometimes expreſſed by Drunkenneſs.</p>
+            <p>Thus we read of the Houſe of <hi>Iſrael,</hi> that <note n="*" place="margin">Iſaiah 51. 29.</note> 
+               <hi>they are Drunken, but not with Wine:</hi> And St. <hi>John</hi> tells us in his <note n="*" place="margin">Revelat. 17. 6.</note> Revelations. That he ſaw the Woman <hi>Drunk with the Blood of the Saints.</hi> And (indeed) when any Irregular Paſſion doth poſſeſs our Souls, we may too truely be ſaid to be <hi>Drunk</hi> with it: And this kind of Drunkenneſs is no leſs Deſtructive to our preſent Happineſs, than the former.</p>
+            <p>To inſtance in ſome of the moſt common of them. As,</p>
+            <p>Firſt, Anger.<note place="margin">1. Anger.</note>
+            </p>
+            <p>He that is intoxicated with Anger, is no leſs beſides himſelf than he that is Drunk with Wine; and is expoſed, like him, to the ſame Fatal Diſea<g ref="char:EOLhyphen"/>ſes, Crimes, and Dangers. For Anger is a pre<g ref="char:EOLhyphen"/>ſent Madneſs: And only differs from it not in it's Degree, but in it's Duration. It ſo ſtrangely heats our Blood, and puts it into ſuch violent Fermentations, that it is to me a wonder it doth not at leaſt break our Veins, if not our Hearts. It ſo much fires our Animal Spirits, and puts
+<pb n="13" facs="tcp:49593:10"/> them into ſuch ſtrange, and ſuch violently diſ<g ref="char:EOLhyphen"/>turb'd Motions, that it naturally ends in Trem<g ref="char:EOLhyphen"/>blings and Swoonings, together with all thoſe Mortal Diſeaſes that ariſe from the diſturbance of the Nerves, and the Indiſpoſition of the Brain.</p>
+            <p>A Dreadful Example the <note n="*" place="margin">
+                  <hi>Valer. Max.</hi> Lib. 9. Sect. 8.</note> Hiſtorian gives us of <hi>Sylla</hi> the <hi>Roman</hi> General, at <hi>Puteoli,</hi> who being delayed in his neceſſary Supplies of Money, fell into ſuch a Rage, that with a Furious Noiſe, and Violent Convulſions, <hi>he vomited up his Soul, mixt with Blood and Threatnings;</hi> and this ſo ſuddenly that it was a queſtion (ſaith my Au<g ref="char:EOLhyphen"/>thor) <hi>whether</hi> Sylla <hi>or his Anger was firſt Dead?</hi>
+            </p>
+            <p>This Paſſion if it be in Exceſs, ſo diſorders our Stomachs, that it turns our very Nouriſh<g ref="char:EOLhyphen"/>ment into ſharp Humours. For whatſoever we Eat or Drink in Anger, turns into Choler; and ſo Nouriſheth not our Bodies, but our Di<g ref="char:EOLhyphen"/>ſeaſes. Neither can he that gives himſelf up to this Fury, be ſecure from falling into the moſt Deadly Crimes, or the moſt Fatal Dangers. For having quite loſt his Reaſon, and being gover<g ref="char:EOLhyphen"/>ned whilſt his Paſſion laſts, by nothing but his Rage, it is more the Care of others, or God's Providence, than his own, that keeps him from Imbruing his Hands in his own Blood, or in the Blood of his neareſt Relations, or deareſt Friends.</p>
+            <p>Thus <note n="*" place="margin">
+                  <hi>Vid. Notas. Oliogri in Va<g ref="char:EOLhyphen"/>ler. Max.</hi> fig. 5. pag. 775.</note> 
+               <hi>Alexander</hi> the Great, in a Drunken Fury, with his own Hands, kill'd one of his beſt Friends, and moſt Valiant Commanders, the Generous and Aged <hi>Clytus;</hi> and afterwards with the Horrour of the Fact, he fell into ſo great a Rage againſt himſelf, that had he not
+<pb n="14" facs="tcp:49593:11"/> been prevented by the Care of his Friends, the ſame Hand and Weapon that hat had kill'd <hi>Cly<g ref="char:EOLhyphen"/>tus,</hi> had diſpatch'd <hi>Alexander.</hi>
+            </p>
+            <p>To add no more concerning Anger, ſo Mad and Rageing; ſo Cruel and Bloody is this Paſſion, that had not God made it as ſhort as it is Vio<g ref="char:EOLhyphen"/>lent, it would long before this time have tur<g ref="char:EOLhyphen"/>ned the World into a Deſolate Wilderneſs, and have made Mankind more Savage and Bloody<g ref="char:EOLhyphen"/>minded one towards another, than the worſt and cruelleſt of the Wild Beaſts.</p>
+            <p>And what I have ſaid of Anger, is, for the moſt part, true, of any other immoderate Paſſion that ſeizeth upon our Souls.</p>
+            <p>I ſhall give ſome few Inſtances more of the moſt common Luſts of Mankind, and the Miſe<g ref="char:EOLhyphen"/>ries they bring along with them, <hi>viz. <g ref="char:V">Ʋ</g>nclean<g ref="char:EOLhyphen"/>neſs, Covetouſneſs, Voluptuouſneſs, Envy</hi> and <hi>Ambition;</hi> every one of which upon an Impar<g ref="char:EOLhyphen"/>tial View, will be found no leſs guilty of all kind of Miſchiefs than the former.</p>
+            <p>For Firſt, as to <hi>
+                  <g ref="char:V">Ʋ</g>ncleaneſs</hi> or <hi>Luſtfulneſs.</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Uncleanneſs or Luſt.</note>
+            </p>
+            <p>What Diſeaſes are ſo nauſeous, or what more deſtructive, than thoſe that are the Effects of Luſt? So filthy they are; that they are not fit to be named; and ſo Painful and Mortal, that he that is infected with them, ſuffers even an Hell upon Earth, and Dyes by Piece-meal; li<g ref="char:EOLhyphen"/>ving to ſee ſome of his Members turn'd into Rottenneſs, and his whole Body chang'd into a Walking Sepulchre, fill'd with nothing but Stench and Corruption within, however it may be adorned and painted without.</p>
+            <pb n="15" facs="tcp:49593:11"/>
+            <p>To this purpoſe <hi>Solomon</hi> moſt probably from his own Experience, tells us, (and who can we bet<g ref="char:EOLhyphen"/>ter believe in this caſe than he that had ſuch an Ar<g ref="char:EOLhyphen"/>my of Wives and Concubines?) That he that fol<g ref="char:EOLhyphen"/>loweth <hi>a ſtrange (i. e.</hi> an Adulterous) <hi>Woman</hi> 
+               <note n="*" place="margin">Proverbs <hi>c. 7. v. 22, 23.</hi>
+               </note> 
+               <hi>go<g ref="char:EOLhyphen"/>eth after her ſtraightway as an Oxe goeth to the Slaughter; or as a Fool to the Correction of the Stocks: Till a Dart ſtriketh through his Liver: as a Bird haſteth to the Snare and knoweth not that it is for his Life.</hi> Wherefore in the following Words he gives us this moſt excellent Advice, grounded upon the firmeſt and moſt forcible Reaſon. * <hi>Hearken unto me therefore O ye</hi>
+               <note place="margin">Ibid. <hi>v. 24, 25, 26, 27.</hi>
+               </note> 
+               <hi>Children, and attend to the Words of my Mouth. Let not thine Heart decline to her wayes; go not aſtray in her paths. For ſhe hath caſt down many wounded: yea many ſtrong Men have been ſlain by her. Her Houſe is the way to Hell, going down to the Chambers of Death.</hi>
+            </p>
+            <p>Why ſhould I farther mention the particular dangers and miſchiefs that this Vice expoſeth us to? For what Danger can be ſo great to which this Sin doth not oblige him who hath given up him<g ref="char:EOLhyphen"/>ſelf to it? Or what Crimes are ſo horrid, to which it doth not expoſe it's Followers to pre<g ref="char:EOLhyphen"/>vent the Diſcovery of their Shame?</p>
+            <p>It forceth even Mothers to be more Cruel and Bloody than the moſt Ravenous Wolves, or the moſt Savage Tygers, in taking away the Lives of their moſt Innocent Off-ſpring, when (by the mere Inſtect of Nature) the worſt of Beaſts will defend their young ones, even with the hazard of themſelves.</p>
+            <pb n="16" facs="tcp:49593:12"/>
+            <p>What Dangers does not a man venture at in the very Act of this Sin, whilſt he commits his Life into the hands of ſuch perſons, whom he knows are falſe to all Tyes of <hi>Religion, Honour,</hi> or <hi>Honeſty.</hi>
+            </p>
+            <p>What Murders, and what Deſolations hath not this Sin been the Cauſe of, either through the Jealouſie and Revenge of the Friends of the injured Party, or from the immediate hand of God?</p>
+            <p>I need ſeek no farther than the Holy Scrip<g ref="char:EOLhyphen"/>tures for the moſt viſible Examples.</p>
+            <p>For, (as the Wiſe Man tells us) <note n="*" place="margin">Prov. 6. 34.</note> 
+               <hi>Jealouſie is the Rage of a man,</hi> and is no leſs <note n="‖" place="margin">Cant. 8. 6.</note> 
+               <hi>cruel than the Grave,</hi> ſparing none that comes in its way.</p>
+            <p>
+               <note n="*" place="margin">
+                  <hi>Vid. 2 Sam.</hi> chap. 13.</note> 
+               <hi>Amnon</hi> had no ſooner defiled his Siſter <hi>Ta<g ref="char:EOLhyphen"/>mar,</hi> but his Death is immediately deſign'd, and ſoon after, treacherouſly executed by his Brother <hi>Abſalom.</hi>
+            </p>
+            <p>The <hi>Sechemites</hi> having deflowr'd <hi>Dinah,</hi> are all (under the ſhew of Friendſhip) butcher'd by her Brethren, who think their Blood little enough to waſh off that Stain they had brought upon their Family. For, all the Excuſe they make for ſo many and ſo bloody Murders, is only this; <hi>Should he deal with our Siſter as with an Harlot?</hi>
+               <note place="margin">Geneſ. 34. 31.</note>
+            </p>
+            <p>But, ſuppoſe nothing of this ſhould happen from men, yet what Puniſhments may not be ex<g ref="char:EOLhyphen"/>pected from God, who hath told us, by St. <hi>Paul,</hi> 
+               <note n="*" place="margin">Hebr. 13. 4.</note> 
+               <hi>Whore-mongers and Adulterers he will judge?</hi> For God hath given us moſt dreadful Examples of his Vengeance upon unclean perſons in <note n="*" place="margin">Gen. 19. 24.</note> 
+               <hi>So<g ref="char:EOLhyphen"/>dom</hi> and <hi>Gomorra.</hi> When nothing elſe would extinguiſh their Flames of Luſt, God pours
+<pb n="17" facs="tcp:49593:12"/> down Showrs of flaming Brimſtone upon them, and utterly deſtroys them. But, tho' no extra<g ref="char:EOLhyphen"/>ordinary Judgment from God ſhould follow this Vice, yet he hath made it ordinarily a ſufficient Puniſhment to it ſelf. For, what with the Filthi<g ref="char:EOLhyphen"/>neſs and Folly that accompanies it, together with the Loathings and Shame that certainly fol<g ref="char:EOLhyphen"/>low it, how doth every Act of this Sin become a Torture to it's ſilly Votaries?</p>
+            <p>The luſtful <hi>Amnon</hi> was ſick for love of <hi>Tamar,</hi> but, no ſooner had he committed Folly with her, but he is ſick with loathing her: <note n="*" place="margin">2 Sam. 13. 15. &amp; 16.</note> For, the Text tells us, <hi>He hated her exceedingly; ſo that the Ha<g ref="char:EOLhyphen"/>tred wherewith he hated her, was greater than the Love wherewith he had loved her.</hi> And his Actions demonſtrate it; for he that but juſt before could not live without her Company, cannot now en<g ref="char:EOLhyphen"/>dure her Sight, but is glad to uſe as much Vio<g ref="char:EOLhyphen"/>lence to be rid of her, as he had before made uſe of to enjoy her.</p>
+            <p>Laſtly, How is the man of Uncleanneſs expo<g ref="char:EOLhyphen"/>ſed to all ſorts of Crimes and Dangers, either to gratifie his Paramour, or to find Fuel for the unquenchable Fire of his Luſt?</p>
+            <p>For having hereby conſumed his Eſtate, (which was it as great as the <hi>Indies,</hi> would be little e<g ref="char:EOLhyphen"/>nough to ſpend upon this one Luſt) for, (as the <note n="*" place="margin">Prov. c. 6. 26.</note> wiſeſt of men tells us) <hi>by means of an Adulte<g ref="char:EOLhyphen"/>rous Woman, a man is brought to a Morſel of Bread.</hi> How is he forced, by the worſt of means, to ſupply the ever-craving, but never ſatisfied Deſires of his Minion, or himſelf.</p>
+            <p>In a word, ſo much doth this one Vice beſot Mankind, that it hath rendred the ſtrongeſt of
+<pb n="18" facs="tcp:49593:13"/> men ſo weak and inconſiderable, that he became the Scorn of the meaneſt of his Enemies.</p>
+            <p>It hath rob'd the man after God's own Heart, of his Juſtice and Religion, and drew him into the worſt and moſt unnatural of all Sins, even Murder it ſelf; and (to ſay no more) it made a Fool of the wiſeſt of men, and rendred him (<note n="*" place="margin">Joſephus An<g ref="char:EOLhyphen"/>tiquit. Judai<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> as the <hi>Jewiſh</hi> Hiſtorian tells us) contemptible to his own Subjects, who had been fam'd and reve<g ref="char:EOLhyphen"/>renc'd through the World for his former Wiſdom.</p>
+            <p>But ſecondly, <hi>Covetouſneſs</hi> is no leſs dange<g ref="char:EOLhyphen"/>rous,<note place="margin">2. Covetouſ<g ref="char:EOLhyphen"/>neſs.</note> and miſchievous than the former.</p>
+            <p>For, if we will believe the Apoſtle St. <hi>Paul,</hi> he tells us, <hi>They that will be rich, fall into Tem<g ref="char:EOLhyphen"/>ptation,</hi>
+               <note place="margin">1 Tim. c. 6. v. 9. &amp; 10.</note> 
+               <hi>and a Snare, and into many fooliſh and hurtful Luſts, which drown men in Deſtruction: for the love of Money is the Root of all Evil; which while ſome coveted after, they have pierced themſelves through with many Sorrows.</hi>
+            </p>
+            <p>And this is fully viſible to any one, whoſe Eyes <hi>the God of this World</hi> hath not blinded. For he that hath given up his Soul to Covetouſneſs, hath condemned himſelf to the worſt of Puniſh<g ref="char:EOLhyphen"/>ments; that is, to a Labour, which, as it never ceaſeth, ſo it, is ever vain and fruitleſs: For, to ſatisfie a covetous Mind with Riches, is as im<g ref="char:EOLhyphen"/>poſſible, as to fill a Sieve with Water, which empties as faſt as it is poured in.</p>
+            <p>How doth the man of Covetouſneſs rob him<g ref="char:EOLhyphen"/>ſelf of all Quiet and Content, in enjoying what he hath, by his conſtant and violent Deſires af<g ref="char:EOLhyphen"/>ter that which he hath not? What inceſſant pains doth he undergo in getting his Wealth? How is he macerated with continual Care and
+<pb n="19" facs="tcp:49593:13"/> Trouble in keeping it? How is he wrack'd and tortur'd with the anxious Fears of loſing it? Or laſtly, How is he expoſed to all Crimes and Dangers in the Purſuit of it; and oft times, to Death it ſelf; if not in the Purſuit of it, yet in the parting with it?</p>
+            <p>Thus <note n="*" place="margin">Joſh. 7. 20.</note> 
+               <hi>Ptolomy,</hi> King of <hi>Cyprus,</hi> having, by his<note place="margin">
+                  <hi>Vid. Oliveri not. in Valer. Max.</hi> p. 778. fig. 5.</note> vaſt Riches, invited the <hi>Romans</hi> to pillage him, not being able to out-live the loſs of his Treaſure, put an end to his miſerable Life, by a doſe of Poyſon. So truly-may it be ſaid of the cove<g ref="char:EOLhyphen"/>tous man's Gold, that it is like <hi>Achan</hi>'s <hi>Wedge, An accurſed thing,</hi> that too often cleaves his own Heart. For, if his own reſtleſs and inſatiable Deſires do not execute him, oftentimes he meets with <hi>Achan's Fate,</hi> his Theft is diſcovered, and the hand of Juſtice becomes his Executioner.</p>
+            <p>For, whoever gives up his Soul to the Love of Money, can never be ſecure from any other Crime, tho' he endangers not only himſelf, but ſacrifices whole Nations to the God of this World, the only Deity that he worſhips.</p>
+            <p>A memorable Example the <note n="*" place="margin">Lib. 3. de finibus bon. &amp; mal.</note> 
+               <hi>Roman</hi> Orator gives us of the rich General <hi>Craſſus,</hi> who having, for no other cauſe, but his own Covetouſneſs, waged War againſt the <hi>Parthians,</hi> loſt not only his own Life, but the Lives of many of the <hi>Ro<g ref="char:EOLhyphen"/>man</hi> Legions: And when he was ſlain, his Ene<g ref="char:EOLhyphen"/>mies made ſport with his Corps, and pouring melted Gold into his Mouth, they thus juſtly re<g ref="char:EOLhyphen"/>proach'd his covetous Life; ſaying, <hi>Aurum ſitiſti, Aurum bibe. Thou haſt thirſted after Gold, drink now thy Fill of it:</hi> thereby, plainly intimating that there is no other ways to ſatisfie a covetous
+<pb n="20" facs="tcp:49593:14"/> man's Mind with Gold, but by filling his Mouth full of melted Or.</p>
+            <p>So great a Temptation is the Inſatiable Love of Money to all kind of evil, that it would be infinite to Relate all the Injuſtice, Murders, Treaſons, Rebellions, and Sacriledges; that it hath been the cauſe of: But the Poet hath done all this in one queſtion, when in Deteſtation of the horrid Murder of King <hi>Priam</hi>'s Son, for the ſake of the Gold left for his Maintenance, with King <hi>Polymneſtor</hi> his Father in Law, he cries out.</p>
+            <q>—<note n="*" place="margin">Virgil Aen<g ref="char:EOLhyphen"/>eid. lib. 3. pag. 374. <hi>not</hi> Varior. fig. 49.</note> 
+               <hi>Quid non Mortalia pectora cogis Auri ſacra fames?</hi>—</q>
+            <p>
+               <hi>What Dangers or what Miſchiefs are ſo great, to which the wicked Love of Money doth not force Mankind?</hi>
+            </p>
+            <p>I need add no more than this one Inſtance out of the Holy Scripture; <hi>viz. That of</hi> Ahab, <hi>King</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Kings <hi>c. 21.</hi>
+               </note> 
+               <hi>of</hi> Iſrael, <hi>of which we read in the firſt of</hi> Kings. c. 21.</p>
+            <p>How did his Covetous Deſire of <hi>Naboth</hi>'s Vineyard torment him, and rob him of all the Pleaſures that a Court or a Crown might elſe have afforded him? How did this plunge him into the worſe of Crimes, the falſe Accuſation and Murder of his innocent Neighbour? And laſtly how did that Crime bring utter ruin and Doſtruction, not only upon himſelf but his whole Family and Poſterity?</p>
+            <p>Thirdly, Neither is <hi>Voluptuouſneſs,</hi> or the love of Pleaſure, leſs Pernicious than the love of Money. This is the Natural Parent of all Crimes and Miſchiefs.</p>
+            <p>To this purpoſe St. <hi>Paul</hi> brings in the <hi>Lovers of themſelves</hi> as leading the Van, and the <hi>Lovers
+<pb n="21" facs="tcp:49593:14"/> of Pleaſures</hi> as bringing up the Rear of all Wick<g ref="char:EOLhyphen"/>edneſs.</p>
+            <p>For deſcribing to <note n="*" place="margin">
+                  <hi>2 to</hi> Tim. 2. 1. 4. 5. 6.</note> 
+               <hi>Timothy</hi> the horrid Crimes of the laſt Times (<hi>i. e.</hi>) of the Times immedi<g ref="char:EOLhyphen"/>ately preceding the Deſtruction of the <hi>Jews;</hi> he tells us, <hi>that in the laſt Days Perillous Times ſhall come,</hi> and the Reaſon he gives us in the following Words: <hi>For Men ſhall be Lovers of their own ſelves, Covetous, Boaſters, Proud, Blaſ<g ref="char:EOLhyphen"/>phemous, Diſobedient to Parents, <g ref="char:V">Ʋ</g>nthankful, <g ref="char:V">Ʋ</g>nholy, without Natural Affection, Truce-Breakers, Falſe-Accuſers, Incontinent, Fierce Deſpiſers of thoſe that are good, Traytors, High-minded; Lovers of Pleaſures more then Lovers of God.</hi> And * St. <hi>Peter</hi> tells us, the Miſchief and Miſery they bring upon themſelves: for ſpeaking of ſuch as take pleaſure in Riot and <hi>Sport themſelves in their</hi>
+               <note place="margin">2 Pet. 2. 12, 13.</note> 
+               <hi>own Deceivings;</hi> he ſaith, <hi>Theſe, as Natural Brute Beaſts, are made to be taken and deſtroyed, and ſhall utterly Periſh in their own Corruption, and ſhall receive the Reward of <g ref="char:V">Ʋ</g>nrighteouſneſs.</hi> And indeed our own Experience may too ſadly de<g ref="char:EOLhyphen"/>monſtrate all this to us. For what Wickedneſs is there ſo abominable, or what Miſery ſo intolle<g ref="char:EOLhyphen"/>rable, to which he that gives up himſelf to the perſuit of any one Pleaſure, is not neceſſarily expoſed?</p>
+            <p>What Crime doth he bauk that ſtands in his way betwixt him and his beloved Pleaſure?</p>
+            <p>How does the Voluptuous Prodigal deſtroy his Health, diſturb his Reaſon, and ruine his Eſtate in the too eager Perſuit of his beloved Delight?</p>
+            <p>How doth he (like the Prodigal in the
+<pb n="22" facs="tcp:49593:15"/>
+* Goſpel) run away from his beſt Friends and<note place="margin">Luke 15. 11. 17.</note> neareſt Relations, <hi>ſpend all his Portion,</hi> and <hi>waſte all his ſubſtance in Riotous Living;</hi> till ha<g ref="char:EOLhyphen"/>ving brought himſelf to the Extremeſt Neceſſity, and having made himſelf more like a Swine than a Man, he is at length turn'd out to their Com<g ref="char:EOLhyphen"/>pany, and is glad to feed upon the Swines husks?</p>
+            <p>How hath the Love of Pleaſure conquered the moſt Glorious Conquerors, deſtroyed the moſt Invincible Armies, and ruined the greateſt Mo<g ref="char:EOLhyphen"/>narchs of the World?</p>
+            <p>
+               <hi>Hannibal,</hi> that could not be ſubdued by all the <hi>Roman</hi> force, loſt the moſt Valiant Army by the Pleaſures of <hi>Capua.</hi> So that <hi>Seneca</hi> ſaith too truely of him (<hi>Epiſt</hi> 11.) that he was <hi>Ar<g ref="char:EOLhyphen"/>mis invictus, vitiis victus; not overcome by others Armes, but Vanquiſh'd by his own Vices.</hi>
+            </p>
+            <p>
+               <hi>Xerxes</hi> whoſe Army in Forraging, deſtroyed whole Countries, and drank up whole Rivers as it went; who was the greateſt Monarch then in the World, as well as the Richeſt; when he had ſo far given up himſelf to his Delights, that (as * <hi>Cicero</hi> tells us) <hi>by a publick Edict he pro<g ref="char:EOLhyphen"/>claimed</hi>
+               <note place="margin">Cic. Tuſcul. Queſt<g ref="char:punc">▪</g> lib. 5.</note> 
+               <hi>a Reward to any that could find out any new ſort of pleaſure,</hi> how ſuddenly did he loſe that vaſt Army, and his greater Empire? So that the * Hiſtorian might well conclude; <hi>What can</hi>
+               <note place="margin">Valer. Max. <hi>not.</hi> Varior. pag. 750. lin. 7.</note> 
+               <hi>be more filthy than thoſe Vices, or what more hurtful, by which all Vertue is defaced, Victories languiſh, Glory is buried in Infamy, and all the Powers both of Soul and Body are utterly deſtroyed?</hi> For they that are poſſeſſed with the inordinate Love of Pleaſures ſeem to be like the Swine into whom the Legion of Devils had entred; they run
+<pb n="23" facs="tcp:49593:15"/> headlong with the greateſt Violence, to their own Deſtruction. Their beloved Pleaſure ſo imploys all the Faculties of their Souls and all the Members of their Bodies, till they are fit for nothing that becomes a Man, and take care of nothing more than the preſent ſatisfaction, like the Brute Beaſts; and then this their Prodigality reduceth them to the moſt miſerable neceſſity, and thence into the worſt of Crimes; till publick Ju<g ref="char:EOLhyphen"/>ſtice (if no other private Accident hath done it before) brings them to the moſt unnatural and moſt ſhameful ends. This I am confident we ſhall find too true, by our own ſad Experience. For if we enquire the Cauſes of all their Crimes, who ſuffer by the hands of the publick Executi<g ref="char:EOLhyphen"/>oners of Juſtice, we ſhall find that the immode<g ref="char:EOLhyphen"/>rate purſuit of unlawful Pleaſures hath moſt com<g ref="char:EOLhyphen"/>monly hurried them to their own ruin. For few or none of ſuch miſerable Wretches but in their laſt and dying words are forc'd to confeſs, that their own Luſts and inordinate Paſſions, have brought them to all their Shame and Miſery.</p>
+            <p>Amongſt which none can be more exorbitant than that<g ref="char:punc">▪</g> concerning which, I am next to diſ<g ref="char:EOLhyphen"/>courſe of<g ref="char:punc">▪</g> 
+               <hi>Viz.</hi>
+               <note place="margin">4. Envy or Malice.</note>
+            </p>
+            <p>Fourthly, <hi>Envy, Malice,</hi> or the <hi>Love of Revenge.</hi>
+            </p>
+            <p>For neither is this a leſs Fooliſh or leſs Fatal Paſſion than any other: For whoever gives up himſelf to this Luſt, does (as it were) ſtretch himſelf upon the Rack, and become his own Torturer. He pines himſelf away in the midſt of all abundance, and ſtarves whilſt he poſſeſſeth the greateſt plenty. He is his own Vulture, and Preys upon his own Bowels.</p>
+            <pb n="24" facs="tcp:49593:16"/>
+            <p>For, ſo deadly a Diſeaſe of the mind is this of Envy, that ſcarcely any thing the envious man eats or drinks, can give him any ſuitable Nou<g ref="char:EOLhyphen"/>riſhment; but the moſt delicate Viands, are, by this Paſſion, turn'd into Gall and Bitterneſs.</p>
+            <p>It ſo fires, or, at leaſt, ſo ſoures the Blood, and ſo burns up, or corrodes, the Vitals, that it ſoon diſſolves the beſt-temper'd Body beyond all the help of Art or Nature.</p>
+            <p>To what fatal Miſeries is the man of Malice ne<g ref="char:EOLhyphen"/>ceſſarily and inceſſantly expoſed? If his malicious Deſigns take, they are commonly ſo bloody, that his own Darts being caſt back upon him by the hands of Juſtice, do ſlay himſelf: and if he miſſeth his deadly Aims, the Arrows that he ſhoots at others (like thoſe that are ſhot directly upwards) fall down again upon his own head, and wound him, even unto Death.</p>
+            <p>He is in a much worſe condition than any o<g ref="char:EOLhyphen"/>ther Malefactor: For, he not only ſuffers for the Crimes he hath committed, but for thoſe which he cannot act, this being one of his greateſt Tor<g ref="char:EOLhyphen"/>tures, that he cannot do them.</p>
+            <p>A dreadful Example of this nature, the im<g ref="char:EOLhyphen"/>mortal * Dr. <hi>Harvey</hi> gives us of a Noble man,<note place="margin">Libr. de Circu<g ref="char:EOLhyphen"/>lat. Sanguin.</note> who having received ſome Affront which he was not able to revenge, took it ſo much to Heart, that his Paſſion ſwell'd him like Poyſon, and as ſoon deſtroyed him; for, in a ſhort time after, he dyed of a malignant Fever: and being diſſe<g ref="char:EOLhyphen"/>cted, his great Artery was found as big as the ju<g ref="char:EOLhyphen"/>gular Artery of an Oxe. So virulent a Venome does accompany this Paſſion; and ſo certainly true is that of the holy <hi>Job. Wrath killeth the</hi>
+               <note place="margin">Job. 5. 2.</note>
+               <pb n="25" facs="tcp:49593:16"/> 
+               <hi>Fooliſh-man, and Envy ſlayeth the Silly one.</hi>
+            </p>
+            <p>Why ſhould I mention the publick Calamities that it brings along with it, ſince they cannot but be viſible to all Obſervers?</p>
+            <p>What Murders hath it not acted? What Schiſms in the Church<g ref="char:punc">▪</g> or Seditions in the State, hath it not rais'd and carryed on? In a Word, what Miſchief, or what Villany, can be ſo great which it hath not accompliſh'd? All Hiſtories are too full of ſad Inſtances of this kind.</p>
+            <p>What unſpeakable Miſchiefs, what ſhameful<note place="margin">Vid. Optatum Milv.</note> Schiſms, what abominable Seditions, Murders, and Treaſons, over-ſpread all <hi>Africa,</hi> through the Envy of <hi>Donatus</hi> and his Party, becauſe o<g ref="char:EOLhyphen"/>thers were preferred before them? And how did their Animoſities continue to divide them, till they loſt their Country and Chriſtianity both together; and are now ſo over-run with Hea<g ref="char:EOLhyphen"/>thens, that ſcarcely any Appearance of the Chri<g ref="char:EOLhyphen"/>ſtian Religion is left amongſt all the <hi>African</hi> Churches, which were, before theſe Diviſions, as glorious for their Profeſſion of, and conſtan<g ref="char:EOLhyphen"/>cy in the Chriſtian Faith, as any Churches in the whole World.</p>
+            <p>What miſerable Calamities did the Malice of the Leaders of three Factions or Sects, bring up<g ref="char:EOLhyphen"/>on the <hi>Jews,</hi> when they were beſieged in <hi>Jeruſa<g ref="char:EOLhyphen"/>lem?</hi>
+               <note place="margin">Vid. Joſephum de Bill. Jud.</note> No leſs than the ſharpeſt Famine, the mo<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> unnatural Murders, the higheſt Profanations of all things ſacred; and, in a Word, the utter de<g ref="char:EOLhyphen"/>ſolation of their City and Temple, and the final Extirpation of their Government and Religion? So that they who were the moſt glorious People in the World, are becomemere Vagabands, and the Scum and Deriſion of all Nations.</p>
+            <pb n="26" facs="tcp:49593:17"/>
+            <p>I wiſh to God we had not too near Exam<g ref="char:EOLhyphen"/>ples in the Diviſions amongſt our ſelves, proceed<g ref="char:EOLhyphen"/>ing from the ſame Cauſe, and that our Magiſtrates would take Care to ſuppreſs them, leſt they pro<g ref="char:EOLhyphen"/>ceed to the ſame ſad Effects; <hi>viz.</hi> the utter Ru<g ref="char:EOLhyphen"/>in of the beſt conſtituted Church and State in the whole World.</p>
+            <p>To add but one Inſtance more out of common<note place="margin">Vid. Livii<g ref="char:punc">▪</g> De<g ref="char:EOLhyphen"/>cad. Hiſtor. Rom.</note> Hiſtory. How did the Envy of <hi>Hanno,</hi> and his Faction againſt <hi>Amilcar,</hi> ruine all the Affairs of <hi>Carthage,</hi> and laid the glorious City in the Duſt, which otherwiſe had not fail'd of being the ſole Empreſs of the whole Earth?</p>
+            <p>If we look into the Sacred Writings, we ſhall find that <hi>Cain</hi>'s Envy ſpared not his own Bro<g ref="char:EOLhyphen"/>ther, but made him become his Murderer. And the Envy of <hi>Korah</hi> and his Company, was the cauſe of the firſt Schiſm and Rebellion that we read of, even againſt <hi>Moſes</hi> and <hi>Aaron;</hi> thoſe ve<g ref="char:EOLhyphen"/>ry perſons, who, by a mighty hand and miracu<g ref="char:EOLhyphen"/>lous Power, had delivered them from their <hi>Aegy<g ref="char:EOLhyphen"/>ptian</hi> Bondage; and drew upon themſelves the moſt ſignal Puniſhment.</p>
+            <p>For <hi>God created a new thing,</hi> and made the Earth <hi>divide it ſelf,</hi> that they might paſs down quick into Hell who were <hi>the Dividers of</hi> Iſrael. What ſhould I add more? Leſt there ſhould be any Evil too great to be the Effect of this Vice, Envy and Pride were the Cauſes even of Hell it ſelf. And this now leads me to take notice of the laſt irregular Paſſion which I mentioned, that too often proves fatal to it's Followers, <hi>viz.</hi>
+            </p>
+            <p>Fifthly, Pride, Ambition, or the immoderate<note place="margin">5 Pride and Ambition.</note> Love of Honors.</p>
+            <pb n="27" facs="tcp:49593:17"/>
+            <p>And indeed, this may well follow Envy, for they are inſeparable Companions, it being almoſt impoſ<g ref="char:EOLhyphen"/>ſible for a man to be proud, unleſs he be envious; and altogether impoſſible to be envious, unleſs he be firſt proud and ambitious: and as ambitious and envious men are (like <hi>Simeon</hi> and <hi>Levi</hi>) Brethren in Iniquity, ſo they are no leſs nearly allied in Mi<g ref="char:EOLhyphen"/>ſery: For, as their Sins are much the ſame, ſo they ſuffer much the ſame Puniſhments.</p>
+            <p>Whatſoever Crime, Danger, or Diſeaſe, is the effect of Envy, may be alſo reckoned in the number of the miſerable (tho' natural) Conſequences of Pride and Ambition. For, as for publick Calamities, what Schiſms, what Factions, what Wars, what Rebelli<g ref="char:EOLhyphen"/>ons, what Deſolations ever were in the World, in which Ambition had not an hand? For, as tho' there were no other Cauſe of theſe Miſchiefs, <hi>Solomon</hi> ſaith, * <hi>Only by Pride cometh all Contention.</hi>
+               <note place="margin">Prov. 13. 10.</note>
+            </p>
+            <p>And as for private Miſchiefs, What Miſeries can be ſo great, into which the proud man doth not involve himſelf and all his Partners? If he miſs of his Deſigns in climbing up on high, he moſt com<g ref="char:EOLhyphen"/>monly breaks his Neck in the Fall: But, if he proſpers a while, this encourages him to proceed un<g ref="char:EOLhyphen"/>to ſuch Crimes, the due Senſe and Horror of which, are enough to break his Heart. For, from this Crime of Ambition (when it hath once got the ab<g ref="char:EOLhyphen"/>ſolute Dominion over a man) as from the Lyon's Den, in the Fable, we can ſee no Foot-ſteps back<g ref="char:EOLhyphen"/>ward; but if any man be ſo ſilly a Beaſt to be plung'd into it, he ſeldom, or never, eſcapes with Life. For, if we will believe the Experience of the wiſeſt of men, he aſſures us, * <hi>That Pride goeth before De<g ref="char:EOLhyphen"/>ſtruction.</hi>
+               <note place="margin">Prov. 16. 18.</note>
+            </p>
+            <pb n="28" facs="tcp:49593:18"/>
+            <p>But, ſuppoſe the utmoſt that can be thought on for the proud man's advantage, <hi>viz.</hi> that he reacheth his higheſt Aim and Deſign, and attains, by his Crimes, the higheſt honors; yet, the Crown he hath placed upon his Head, by wicked hands, tho' it be of pure Gold, ſits as uneaſie upon him, as a Crown of the ſharpeſt Thorns; and not only wounds his Head, but his Heart too, with reſtleſs Cares and endleſs Fears. For, the Senſe of his own Perfidi<g ref="char:EOLhyphen"/>ouſneſs makes him ſo jealous leſt all other men ſhould be like himſelf, that he can truſt no man; and the thoughts of his own Crimes makes him in <hi>Cain</hi>'s Condition, to think every man he meets will certainly kill him; and theſe terrible Fears rais'd from without, together with the amazing Hor<g ref="char:EOLhyphen"/>rors of his Conſcience within him, will ſcarcely let him ſleep or eat, or enjoy any thing in quiet. So that whilſt he ſits upon a Throne, he is really more miſerable than he that makes his Bed upon a Dunghil. For, beſides the danger of Treachery from his Friends, (whoſe Wickedneſs he too well knows to have any juſt cauſe to truſt them) and beſides the continual Dreads of his own Soul, leſt the Almighty Providence ſhould overturn him; how mortally is he hated, and how continually is he baited by his Enemies, and purſued even to Death by the beſt of men, whom he hath injured, whoſe ve<g ref="char:EOLhyphen"/>ry Vertues ingage them (for the ſake of the pub<g ref="char:EOLhyphen"/>lick Safety, as well as of their private Security) in the moſt vigorous and bloody Deſigns againſt him? For, moſt commonly we ſee it true, that ambitious men that cannot be contented with their own ſtate, (like the proud &amp; rebellious <hi>Abſalom,</hi> that was hang<g ref="char:EOLhyphen"/>ed by his own hair, in which was his main glory) are executed by their own Pride.</p>
+            <pb n="29" facs="tcp:49593:18"/>
+            <p>For, whilſt by Schiſm and Rebellion they pull down the Pillars of the Church and State, oft times they bury themſelves in the Ruines that they make. Of this, I need give no other Inſtance than that of our late miſerable Times amongſt our ſelves. For, what profit had we from all that War and blood<g ref="char:EOLhyphen"/>ſhed amongſt us? We only brought upon our ſelves worſe than what we fear'd. We made our ſelves Slaves to the baſeſt of men, becauſe we could not be contented to be Subjects to the beſt of Princes; and for fear of bringing in Popery, we had well nigh deſtroyed Chriſtianity. Nay, when the men of Schiſm and Rebellion were ſo proſperous, that they carried all before them, and had in the moſt barbarous manner, murdered the beſt of Kings and deſtroyed the beſt of Churches; and not only kill'd but had taken Poſſeſſion too of all their Power and Eſtates; how did the all-wiſe and juſt Provi<g ref="char:EOLhyphen"/>dence of God, by the moſt unexpected means, even in an Inſtant, turn the Wheel over them, and bring down their Pride to the greateſt Shame?</p>
+            <p>Neither is the proud man's Grandure and Promo<g ref="char:EOLhyphen"/>tion his only miſerable Condition; for, his whole Life is not only the greateſt Vanity, but the greateſt Miſery and Vexation of Spirit. For, how does ſome little thing which he cannot have, rob him of all Content and Quiet, in enjoying what he hath?</p>
+            <p>
+               <hi>Mordecai</hi>'s ſtiff Knee takes from the ambitious <hi>Haman</hi> the relliſh of all the Honors of the great<g ref="char:EOLhyphen"/>eſt Court in the World; nay, the Power and Glo<g ref="char:EOLhyphen"/>ry of a Crown, could afford no Reſt nor Pleaſure to the proud and envious <hi>Ahab,</hi> when once <hi>Naboth</hi>'s Vineyard had appear'd in his ſight. To deſcribe the pround man's Life, were to repreſent unto you an
+<pb n="30" facs="tcp:49593:19"/> exact Copy of all kind of Folly and Miſery. For what with his continual Plots and Contrivances, and his inceſſant Cares and Buſineſs; How does he Sacrifice his Health to his Ambition, for want of due Repaſt, or of quiet Repoſe? What with his Envy at others that are higher than himſelf, and his eager Deſires after Preferment, together with his continual Fears leſt he ſhould miſs of it, how is he rack'd with endleſs Tortures?</p>
+            <p>What with the baſeneſs and durtineſs of the way to his proud Deſigns; what with the many affronts and denials; what with his great hopes and ſometimes his greater diſpair, a mixture of all which, he cannot but meet with in it; not to ſay any thing of the envy and ſcorn of others that attend his ad<g ref="char:EOLhyphen"/>vancement, or the little ſatisfaction that he himſelf meets with in it; how is he fool'd and cheated with a Cloud inſtead of a Deity? In a word, how do the ſeveral Paſſions raiſed in him by theſe Cauſes, conſtantly torture his Mind and diſorder his Body, till at length they bring upon him Miſery, Diſeaſes, and Death? I need not remind you of the many miſchiefs this Vice expoſeth us to: It threw down the Angels from Heaven, and caſt our firſt Parents out of Paradiſe; it was the cauſe of the firſt Sins that ever were committed, and by conſequence is the Mother of all Miſchief, and of all Miſeries: Nay, it ſtill continues actually to produce theſe ſad effects; for <hi>where Pride is, there is Strife; and every evil work.</hi>
+            </p>
+            <p>Give me leave to add two or three practical de<g ref="char:EOLhyphen"/>ductions from what hath been ſaid. If Miſery and Death be the natural effects of every one of theſe Sins. <hi>Viz. Pride, Envy, Voluptuouſneſs, <g ref="char:V">Ʋ</g>ncleanneſs,
+<pb n="31" facs="tcp:49593:19"/> Anger, Gluttony, Drunkenneſs, <g ref="char:V">Ʋ</g>ncharitableneſs, Injuſtice, Profaneneſs,</hi> and <hi>Irreligion,</hi> what then remains? But that</p>
+            <p>Firſt, We ſhould all keep Watch and Ward a<g ref="char:EOLhyphen"/>gainſt<note place="margin">The firſt Dedu<g ref="char:EOLhyphen"/>ction.</note> theſe Deſtroyers of Mankind. We are careful enough to keep our Houſes from Fire, our Goods from Thieves, and our Bodies from Infection of the Plague; and ſhall we be ſo fooliſh to hug theſe Enemies of our Lives, and to follow theſe Sins which are no leſs deſtructive to us, than all thoſe other dangers which we ſo much fear, and ſo ear<g ref="char:EOLhyphen"/>neſtly endeavour to avoid? To this end let every one of us conſider ſeriouſly what hath been ſaid againſt that particular Sin to which he finds him<g ref="char:EOLhyphen"/>ſelf moſt inclined; let every one of us endeavour to mend himſelf, more than others, eſpecially more than our Magiſtrates: let them alone to take care to amend the Publick by the Execution of thoſe wholſom Laws which are eſtabliſh'd in our Church and State; and let us, who are private Chriſtians, <hi>ſtudy to be quiet, and do our own Buſineſs</hi> (i. e.) <hi>to work out our own Salvation with fear and trembling,</hi> by a<g ref="char:EOLhyphen"/>voiding our ſins which we know will no leſs deſtroy our preſent than our future ſafety and Happineſs.</p>
+            <p>Secondly, If we are, or have been guilty of<note place="margin">The ſecond De<g ref="char:EOLhyphen"/>duction.</note> any of theſe Sins, or have ſeen others purſuing them with greedineſs, and yet neither we nor they have felt any of thoſe Miſeries or Miſchiefs that are the natural effects of them, let us not from thence con<g ref="char:EOLhyphen"/>clude, that the Preacher is deceived; but let us thank God for his Care and Providence over us, which only hath preſerved us from being our own Murderers by purſuing our own Sins: and let this Patience and Long-Suffering of God, prevail with
+<pb n="32" facs="tcp:49593:20"/> us, as we love our Lives to hate our Sins, and to break off from them by Repentance, leſt by conti<g ref="char:EOLhyphen"/>nuing in them, we provoke God Almighty to give us up to be deſtroyed by them.<note place="margin">The third and laſt Deduction.</note>
+            </p>
+            <p>Thirdly and Laſtly, If our Sins are deſtructive to our preſent Happineſs, then if we have any care for our health, or ſafety, for our eaſe, quiet, or con<g ref="char:EOLhyphen"/>tentment, or for our Lives themſelves, let us not any longer delay our amendment; but let us imme<g ref="char:EOLhyphen"/>diately caſt off all our Sins which are ſo dangerous and ſo hurtful to us. Delays (we know) can ne<g ref="char:EOLhyphen"/>ver be prudent when the danger is great and immi<g ref="char:EOLhyphen"/>nent. He that ſees his Houſe on Fire will not be ſo mad to ſquander away the preſent opportunity of quenching it; he that deſcerns ſome mortal diſeaſe ariſing in his Body, will loſe no time in applying ſuch Remedies as may prevent their danger. Why then are we ſo unreaſonable and ſenſeleſs to trifle away our time and opportunity of quenching the Fires of our Luſts, and of preventing the fatal dan<g ref="char:EOLhyphen"/>gers of our Sins? Eſpecially ſince we know not if we neglect the preſent, whether God will give us any other opportunity in the time to come. For he himſelf hath told us, that <note n="*" place="margin">Gen. 6. 3.</note> 
+               <hi>His Spirit ſhall not al<g ref="char:EOLhyphen"/>ways ſtrive with Man.</hi> The only ſhew of Reaſon, by which the Devil cheats too many of their Eter<g ref="char:EOLhyphen"/>nal Happineſs, is this. <hi>Viz.</hi> That it is time enough to repent, when they are paſt their Pleaſures, be<g ref="char:EOLhyphen"/>cauſe there is ſome reaſon to hope that a Death-Bed-Repentance may be ſincere and acceptable with God to the ſaving of our Souls. But though this Pretence is moſt Preſumptuous and ground<g ref="char:EOLhyphen"/>leſs, yet the tempter could not have ſo much as this againſt us, if we did but conſider that our
+<pb n="33" facs="tcp:49593:20"/> Sins are as hurtful to our Bodies as to our Souls, that they as much prejudice our preſent Hap<g ref="char:EOLhyphen"/>pineſs, as they do our future; and therefore, that tho' it was poſſible (which we have no grounds at all to ſuppoſe, that a dying Repentance might come time enough to ſave our Souls, yet it <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> abſolutely too late (when Sin hath already de<g ref="char:EOLhyphen"/>ſtroyed us) to prevent the Miſeries of our Bodies.</p>
+            <p>If therefore we have any care of our Lives or Happineſs, if we have any concern either for our own good, or the good of the World; and to ſum up all in one Word, if we would not add <hi>SELF-M<g ref="char:V">Ʋ</g>RDER</hi> to the reſt of our Crimes, let us put in practice that moſt neceſſary Exhortation<note place="margin">Heb. 3. 13.</note> of St <hi>Paul, Exhort one another daily, whilſt it is called to day, leſt any of you be hardned by the de<g ref="char:EOLhyphen"/>ceitfulneſs of Sin;</hi> and to this purpoſe, let us ſeri<g ref="char:EOLhyphen"/>ouſly conſider thoſe Words of our Bleſſed Saviour; and ſedately ask our ſelves this Queſtion of his,<note place="margin">Luke 9. 25.</note> 
+               <hi>What ſhall it profit a man if he ſhall gain the whole World and loſe himſelf, or bring upon himſelf his own Deſtruction?</hi> For, ſince we are aſſured, that <hi>as Righteouſneſs <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>endeth to Life, ſo he that purſueth Evil, purſueth it to his own Death.</hi> Surely, Com<g ref="char:EOLhyphen"/>mon Prudence ſhould perſwade us no longer to hazard our preſent Welfare, by running on in ſuch ſinful Courſes as may <hi>bring upon us ſwift Deſtruction,</hi> but to purſue the ways of Righteouſ<g ref="char:EOLhyphen"/>neſs; that ſo we may avoid the miſeries that fol<g ref="char:EOLhyphen"/>low the Purſuit of Evil.</p>
+            <p>To this End, I ſhall conclude all with the moſt divine, and moſt uſeful Words of St. <hi>Peter,</hi> (which are ſo beneficial to all Mankind, that I could wiſh they were written upon every man's Soul, in in<g ref="char:EOLhyphen"/>delible
+<pb n="34" facs="tcp:49593:21"/> Characters) <hi>viz. He that will love Life, and</hi>
+               <note place="margin">1 Pet. 3. v. 10. to v. 14.</note> 
+               <hi>will ſee good Days, let him refrain his Tongue from Evil, and his Lips, that they ſpeak no Guile: Let him eſchew Evil, and do Good, let him ſeek peace, and enſue it. For, the Eyes of the Lord are upon the righteous, and his Ears are open unto their Prayers; but the Face of the Lord is againſt them that do Evil, and who will harm you</hi> (or who is he that ſhall harm you) <hi>if ye be Followers of that which is good.</hi>
+            </p>
+            <p>Now, that all of us may ſo follow that which is Good, and ſo eſchew that which is Evil: that we may live happily in this Life, and be eternally happy in the Life to come, God of his Infinite Mercy grant, for Jeſus Chriſt his ſake; to whom, with the Father and the Holy Spirit, be aſcribed (as is moſt due) all Power, Dominion, Praiſe, and Glory, now and for evermore.</p>
+            <closer>Amen.</closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
